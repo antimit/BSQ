@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "map_validator.h": "c",
+        "stdlib.h": "c"
+    }
+}
